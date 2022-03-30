@@ -3,7 +3,8 @@
 # 项目描述
 
 ```
-一个基于vue3+ts+element-plus+vuex+axios写的简单demo
+一个基于vue3+ts+element-plus+vuex+axios写的掘金官网demo 
+借鉴https://juejin.cn/
 ```
 
 ## Project setup
