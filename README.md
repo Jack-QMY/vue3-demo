@@ -1,4 +1,10 @@
-# vue3-demo(一个基于 vue3 写的 demo)
+# vue3-demo
+
+# 项目描述
+
+```
+一个基于vue3+ts+element-plus+vuex+axios写的简单demo
+```
 
 ## Project setup
 
